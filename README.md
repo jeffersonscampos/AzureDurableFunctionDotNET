@@ -9,6 +9,7 @@
 # https://funcaoaprovarpedidonova3.azurewebsites.net/api/Function1_HttpStart?idPedido=1758&valor=500123
 
 # Teste da pipeline:
+https://dev.azure.com/Fiap-PosTech
 # Fazer POST para:
 https://projeto2-api.azurewebsites.net/Api/login
 com payload JSON: {"nome": "xxx", "senha": "xxx"}
