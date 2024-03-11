@@ -2,8 +2,7 @@
 https://www.loom.com/share/d0cfcd3f33e24e9a90bd77287c2f363e?sid=497e17b6-684c-4c91-8e1d-5ad4987246e9
 
 # Vídeo Pipeline CI/CD - Projeto Fase 2 - FIAP-PosTech:
-https://www.loom.com/share/d0cfcd3f33e24e9a90bd77287c2f363e?sid=575b23f3-6f2b-431f-889d-5fdf6d3cbbf0
-
+https://www.loom.com/share/de0fd3734b7e4a84a02d2377c665fa1d?sid=570bb58c-370f-4047-afa2-c1296fdc0193
 
 # AzureDurableFunctionDotNET
 
